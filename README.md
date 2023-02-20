@@ -33,7 +33,7 @@ Nesta etapa será enviado para você um código de verificação via e-mail, é 
 O e-mail é parecido com este, se não chegou na caixa principal, verifique na _lixeira_ e caixa de _spam_.
 ![Passo 4.1](https://i.ibb.co/RHfFByJ/image.png)
 
-Ao abrir o e-mail você recebeu, você receberá esse código grandão, basta copiá-lo e colá-lo no site que está esprando o código.
+Ao abrir o e-mail que você recebeu, você receberá esse código grandão, basta copiá-lo e colá-lo no site que está esperando o código.
 ![Passo 4.2](https://i.ibb.co/cY5ZKp4/image.png)
 
 ### **Conclusão**
